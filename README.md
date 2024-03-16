@@ -1,4 +1,6 @@
 ## Group 6 AOOP Project
+This project has been abandoned
+
 This repository aims to create a clone of Boomerang Fu using Pygame.
 
 - Objective
